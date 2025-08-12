@@ -1,6 +1,8 @@
 ---
 layout: default
+title: Influence of Operator Expertise
 ---
+
 
 ## Preprint
 [arXiv:2411.10016](https://arxiv.org/abs/2411.10016)
