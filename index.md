@@ -18,11 +18,22 @@ As autonomous robots are increasingly deployed in complex and high-risk environm
 
 ### Video
 <video controls width="800">
-  <source src="assets/demo.mp4" type="video/mp4">
+  <source src="assets/Operator_Expertise_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ---
+### Video
+<video controls width="800">
+  <source src="assets/Recording of Scenario 1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Video
+<video controls width="800">
+  <source src="assets/Recording of Scenario 2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Examples
 - Bullet 1 describing an example
