@@ -48,9 +48,7 @@ Fig. Operator Interface
   Your browser does not support the video tag.
 </video>
 
-## Examples
-- Bullet 1 describing an example
-- Bullet 2 describing a limitation or case study
+
 
 ## Acknowledgements
 This project was funded by CSIRO’s CINTEL FSP program.
