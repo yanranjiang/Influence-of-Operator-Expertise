@@ -11,6 +11,13 @@ title: Influence of Operator Expertise on Robot Supervision and Intervention
 ¹ Data61, CSIRO, Australia
 ² Faculty of Engineering, Monash University, Australia
 
+
+<video controls width="800">
+  <source src="assets/Operator_Expertise_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Abstract
 As autonomous robots are increasingly deployed in complex and high-risk environments, they are supervised by users with diverse levels of robotics expertise. As the diversity of the user population increases, it is important to understand how users with different expertise levels approach the supervision task and how this impacts performance of the human-robot team. This exploratory study investigates how operators with varying expertise levels perceive information and make intervention decisions when supervising a remote robot. We conducted a user study (N=27) where participants supervised a robot autonomously exploring four unknown tunnel environments in a simulator, and provided waypoints to intervene when they believed the robot had encountered difficulties. By analyzing the interaction data and questionnaire responses, we identify differing patterns in intervention timing and decision-making strategies across novice, intermediate, and expert users. 
 
@@ -18,11 +25,7 @@ As autonomous robots are increasingly deployed in complex and high-risk environm
 Fig. Operator Interface
 
 
-Summary Video
-<video controls width="800">
-  <source src="assets/Operator_Expertise_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ---
 ### Recording of Scenario 1
