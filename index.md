@@ -17,7 +17,8 @@ As autonomous robots are increasingly deployed in complex and high-risk environm
 ![Fig. 1: Diagram of the proposed system.](assets/Fig_interface.png)
 Fig. Operator Interface
 
-### 
+
+Summary Video
 <video controls width="800">
   <source src="assets/Operator_Expertise_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
