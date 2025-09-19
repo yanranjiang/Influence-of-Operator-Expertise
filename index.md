@@ -7,7 +7,7 @@ title: Influence of Operator Expertise on Robot Supervision and Intervention
 
 
 ## Authors
-[Yanran Jiang](#)¹, [Pavan Sikka](#)¹, [Leimin Tian](#)¹, [Dana Kulic](#)¹², and [C´ecile Paris1](#)¹  
+[Yanran Jiang](#)¹, [Pavan Sikka](#)¹, [Leimin Tian](#)¹, [Dana Kulic´](#)¹², and [C´ecile Paris](#)¹  
 ¹ Data61, CSIRO, Australia
 ² Faculty of Engineering, Monash University, Australia
 
